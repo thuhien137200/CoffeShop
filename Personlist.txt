@@ -1,0 +1,50 @@
+4
+1
+Tran Hien
+10 Nguyen Binh Khiem
+0898130701
+13 7 2001
+Nu
+Hue
+191915400
+KH001
+500000
+2
+ThaoTran
+22122005
+Tran Thao
+29 Phu Cat
+0165487200
+22 12 2005
+Nu
+Hue
+NV001
+NV001
+1 10 2020
+5
+3
+HongNhung
+2572001
+Dang Thi Hong Nhung
+149 Le Dinh Ly
+0126547389
+25 7 2001
+Nu
+Quang Nam
+2524004114
+QL001
+Dai Hoc
+Chuyen Quan Ly Nhan Vien
+2
+PhamThao
+123456789
+Pham An Mai Thao
+Le Nhu Ho
+054871254
+5 4 2000
+Nam
+Da Nang
+01254781544
+NV002
+5 2 2020
+3

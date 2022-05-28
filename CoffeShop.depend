@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1610077566 source:c:\c++\coffeshop\src\general.cpp
+	"General.h"
+
+1610077528 c:\c++\coffeshop\include\general.h
+	<iostream>
+	<string.h>
+
+1610078424 source:c:\c++\coffeshop\src\product.cpp
+	"Product.h"
+
+1610078334 c:\c++\coffeshop\include\product.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"General.h"
+
+1610077239 source:c:\c++\coffeshop\main.cpp
+	<iostream>
+	<fstream>
+	"General.h"
+	"Product.h"
+	"ProductManagement.h"
+	"PersonManagement.h"
+	"Login.h"
+	"Bill.h"
+
+1610020048 c:\c++\coffeshop\include\productmanagement.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"Product.h"
+	"General.h"
+
+1609991301 source:c:\c++\coffeshop\src\productmanagement.cpp
+	"ProductManagement.h"
+
+1610117962 source:c:\c++\coffeshop\src\date.cpp
+	"Date.h"
+	<ctime>
+
+1609920794 c:\c++\coffeshop\include\date.h
+	<iostream>
+	<fstream>
+
+1609922821 source:c:\c++\coffeshop\src\customer.cpp
+	"Customer.h"
+
+1609922812 c:\c++\coffeshop\include\customer.h
+	"Person.h"
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+
+1610017330 c:\c++\coffeshop\include\person.h
+	"Date.h"
+	<iostream>
+	<string>
+	<fstream>
+	"General.h"
+
+1610017150 source:c:\c++\coffeshop\src\person.cpp
+	"Person.h"
+
+1609927791 source:c:\c++\coffeshop\src\account.cpp
+	"Account.h"
+
+1609990813 c:\c++\coffeshop\include\account.h
+	"Person.h"
+	"General.h"
+	<iostream>
+	<string>
+
+1609922903 source:c:\c++\coffeshop\src\manager.cpp
+	"Manager.h"
+
+1609922896 c:\c++\coffeshop\include\manager.h
+	"Account.h"
+	<iostream>
+	<string>
+
+1609927907 source:c:\c++\coffeshop\src\data.cpp
+	"Data.h"
+
+1610077193 c:\c++\coffeshop\include\data.h
+	<string>
+
+1609933698 source:c:\c++\coffeshop\src\employee.cpp
+	"Employee.h"
+	<cstdlib>
+	<cstring>
+	"Date.h"
+	<ctime>
+
+1609928096 c:\c++\coffeshop\include\employee.h
+	"Account.h"
+	<iostream>
+	<string>
+	<string>
+	<fstream>
+
+1610017342 c:\c++\coffeshop\include\personmanagement.h
+	"Data.h"
+	"Person.h"
+	"Account.h"
+	"Customer.h"
+	"Employee.h"
+	"Manager.h"
+	<iostream>
+	<string>
+	<string>
+	<fstream>
+
+1610024430 c:\c++\coffeshop\include\login.h
+	"PersonManagement.h"
+	"Person.h"
+	<iostream>
+	<string>
+
+1610077946 source:c:\c++\coffeshop\src\login.cpp
+	"Login.h"
+
+1610078024 source:c:\c++\coffeshop\src\personmanagement.cpp
+	"PersonManagement.h"
+
+1609991304 source:c:\c++\coffeshop\src\bill.cpp
+	"Bill.h"
+
+1610076964 c:\c++\coffeshop\include\bill.h
+	<iostream>
+	<fstream>
+	<string>
+	"Date.h"
+	"Data.h"
+	"PersonManagement.h"
+	"ProductManagement.h"
+

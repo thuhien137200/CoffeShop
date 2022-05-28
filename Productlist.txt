@@ -1,0 +1,13 @@
+4
+SP1901
+coca
+20000
+SP2061
+pepsi
+20000
+SP2179
+7up
+15000
+SP1041
+sinh To Oc Cho
+35000
